@@ -1,0 +1,13 @@
+= Mapping issue fields
+Clément Levallois <levallois@em-lyon.com>
+2019-02-03
+
+last modified: {docdate}
+
+== Code repo
+
+This is the Java version of the code used in the paper under review on the mapping of issue fields with Twitter lists.
+
+A Python version is available here: https://github.com/MohamedBnbm/seed_expansion
+
+Questions and comment: mohamed.bnbm@gmail.com or levallois@em-lyon.com
